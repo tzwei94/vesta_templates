@@ -10,13 +10,14 @@ Work with vesta 0.9.8
 * Drupal 7
 * Redmine
 * Laravel 5.1
+* Laravel-Nuxt-Togago
 
 ### Installation
 To install thoose templates just:
 
 ```sh
 cd /usr/local/vesta/data/templates/web
-git clone https://github.com/errogaht/vesta_templates.git
+git clone https://github.com/tzwei94/vesta_templates
 cp -R vesta_templates/apache2 .
 cp -R vesta_templates/nginx .
 rm -R vesta_templates
