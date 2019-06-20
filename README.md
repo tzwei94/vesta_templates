@@ -39,5 +39,5 @@ cp -R vesta_templates/httpd .
 
 * (Optional) Step 3: Remove temp folder:
 ```sh
-rm -R vesta_templates
+rm -rf vesta_templates
 ```
