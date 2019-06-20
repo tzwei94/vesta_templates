@@ -32,7 +32,7 @@ git clone https://github.com/tzwei94/vesta_templates
 cp -R vesta_templates/apache2 .
 cp -R vesta_templates/nginx .
 ```
-* (Choose) Step 2.2: To install Nginx + Apache2(Non-httpd)
+* (Choose) Step 2.2: To install Nginx + Apache2(httpd)
 ```sh
 cp -R vesta_templates/httpd .
 ```
