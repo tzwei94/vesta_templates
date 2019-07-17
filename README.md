@@ -9,13 +9,13 @@ To install template with *sk-php-selector must follow this [sk-php-selector](htt
 
 ### Templates list
 
-#####Nginx + Apache2(non-httpd):
+#####Nginx + Apache2(non-httpd) (Ubuntu):
 * Drupal 7
 * Redmine
 * Laravel 5.1
 * Laravel-Nuxt-Togago
 
-#####Nginx + Apache2(httpd):
+#####Nginx + Apache2(httpd) (CentOS):
 * Laravel-Lv88 (*sk-php-selector)
 
 ### Installation
