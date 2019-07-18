@@ -16,7 +16,7 @@ To install template with *sk-php-selector must follow this [sk-php-selector](htt
 * Laravel-Nuxt-Togago
 
 #####Nginx + Apache2(httpd) (CentOS):
-* Laravel-Lv88 (*sk-php-selector)
+* Laravel-w/PHPSelector (*sk-php-selector)
 
 ### Installation
 To install thoose templates:
